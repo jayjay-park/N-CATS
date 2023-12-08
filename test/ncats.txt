@@ -1,0 +1,38 @@
+999 0.0015997591422057273 0.07996393740177155 1.8147992940314847e-05
+torch.Size([3355, 1])
+LE Learned [ 0.2572172  -0.13303946]
+LE True [ 0.25680783 -0.13239138]
+Whole Traj Norm Diff: 0.00076654344
+LE Learned unseen [ 0.249119   -0.15503664]
+LE Learned true [ 0.24907197 -0.15449661]
+Whole Traj Norm Diff: 0.00054207677
+
+data shape: (3355,)
+y1 torch.Size([2013, 1])
+X_train: torch.Size([2013]) 
+ X_test: torch.Size([1342]) 
+ y_train: torch.Size([2013]) 
+ y_test: torch.Size([1342])
+
+
+#--------------------------------#
+2000 iterations
+multi-step err: 515.049135855739
+torch.Size([10782, 1])
+LE Learned [ 0.2997092  -0.11242583]
+LE True [ 0.29909438 -0.11178175]
+Whole Traj Norm Diff: 0.0008904241
+LE Learned unseen [ 0.26078153 -0.13299644]
+LE Learned true [ 0.2607571 -0.1330105]
+Whole Traj Norm Diff: 2.8197219e-05
+
+
+
+Model is on device: cpu
+torch.Size([10782, 1])
+update_px device: cuda:0
+LE Learned [ 0.24041231 -0.13088684]
+LE True [ 0.29909438 -0.11178175]
+Whole Traj Norm Diff: 0.061713774
+
+multi-step err: 6.522505572409669

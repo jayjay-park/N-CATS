@@ -1,0 +1,10 @@
+Epoch: 999, train loss: 0.04117, test loss: 0.11384
+Saved new model!
+
+out_end_ix 10783
+LE Learned [inf inf inf inf]
+LE True [ 0.11197573  0.01650896 -0.0719949  -0.23968436]
+Whole Traj Norm Diff: inf
+LE Learned unseen [inf inf inf inf]
+LE Learned true [ 0.10156813  0.01787491 -0.07286122 -0.24499571]
+Whole Traj Norm Diff: inf
